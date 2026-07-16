@@ -32,8 +32,8 @@ I'm a developer who enjoys turning ideas into focused, useful tools.
 ## GitHub snapshot
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leocarsons&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=7C3AED&icon_color=2563EB&text_color=64748B" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocarsons&layout=compact&hide_border=true&theme=transparent&title_color=7C3AED&text_color=64748B" alt="Most used languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leocarsons&theme=transparent" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leocarsons&theme=transparent" alt="Most used languages" />
 </div>
 
 <div align="center">
