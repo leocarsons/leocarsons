@@ -7,32 +7,30 @@
 </p>
 
 <p align="center">
-  <code>frontend-leaning full-stack</code> · <code>web & desktop</code> · <code>remote-friendly</code>
+  <code>frontend-leaning full-stack</code> · <code>TypeScript</code> · <code>Electron</code>
 </p>
 
 ---
 
 ## `$ whoami`
 
-I'm Leo, a frontend-leaning full-stack engineer who enjoys turning product ideas into reliable, polished experiences across the web and desktop.
+I'm Leo. Frontend is where I'm most at home, but I usually follow a feature wherever it goes — API, build pipeline, or desktop shell.
 
-- 🎨 Strongest on the frontend with **TypeScript, React, Vue and Next.js**
-- ⚙️ Building APIs and backend services with **Node.js and NestJS**
-- 🖥️ Creating cross-platform desktop applications with **Electron**
-- 📦 Using **Docker, Vite and Git** to keep development and delivery smooth
-- 🌱 Learning **Go** and expanding my backend and systems perspective
-- 🤖 Exploring practical AI workflows for creative products and developer tooling
+- Most days I'm writing **TypeScript** with **React, Vue or Next.js**.
+- When the feature needs a backend, I reach for **Node.js and NestJS**.
+- I use **Electron** when a browser tab isn't quite enough.
+- **Docker, Vite and Git** are part of the everyday toolbox.
+- I'm learning **Go**, one small program at a time.
+- I have a soft spot for developer tools and tiny automations that save a few clicks.
 
-## `$ cat stack.ts`
+## `$ stack --grouped`
 
-```ts
-const stack = {
-  frontend: ["TypeScript", "JavaScript", "React", "Vue", "Next.js"],
-  backend: ["Node.js", "NestJS"],
-  desktop: ["Electron"],
-  engineering: ["Docker", "Vite", "Git"],
-  learning: ["Go"],
-} as const;
+```text
+frontend   TypeScript · JavaScript · React · Vue · Next.js
+backend    Node.js · NestJS
+desktop    Electron
+tooling    Docker · Vite · Git
+learning   Go
 ```
 
 <p align="center">
@@ -43,21 +41,15 @@ const stack = {
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [**Outclaw**](https://github.com/leocarsons/outclaw) | A CLI and registry workflow for creating, installing, searching and managing Agent Skills. | TypeScript · CLI |
-| [**vite-plugin-upload-sourcemaps**](https://github.com/leocarsons/vite-plugin-upload-sourcemaps) | A Vite-oriented sourcemap upload tool for APM Insight Web. | TypeScript · Vite |
+| [**Outclaw**](https://github.com/leocarsons/outclaw) | A CLI I built to keep Agent Skills easy to create, install, search and manage. | TypeScript · CLI |
+| [**vite-plugin-upload-sourcemaps**](https://github.com/leocarsons/vite-plugin-upload-sourcemaps) | A small Vite plugin for uploading sourcemaps to APM Insight Web. | TypeScript · Vite |
 
-## `$ cat work-style.json`
+## `$ cat notes.txt`
 
-```json
-{
-  "product_minded": true,
-  "communication": "clear and async-friendly",
-  "documentation": "part of the work",
-  "delivery": "reliable and iterative",
-  "preferred_mode": "remote"
-}
-```
+I like interfaces with thoughtful details, tools that solve a real annoyance, and codebases that don't make the next person sigh.
+
+Lately, I'm getting more comfortable with Go and still finding excuses to build things with Electron.
 
 <p align="center">
-  <samp>leo@github:~$ <b>build clearly. ship thoughtfully.</b> <span>▌</span></samp>
+  <samp>leo@github:~$ <b>keep building.</b> <span>▌</span></samp>
 </p>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/terminal.zh-CN.svg" width="100%" alt="终端风格的 Leo 个人介绍" />
+  <img src="./assets/terminal.svg" width="100%" alt="Leo 的开发者终端" />
 </div>
 
 <p align="center">
@@ -7,32 +7,30 @@
 </p>
 
 <p align="center">
-  <code>偏前端的全栈工程师</code> · <code>Web 与桌面端</code> · <code>偏好远程</code>
+  <code>偏前端的全栈工程师</code> · <code>TypeScript</code> · <code>Electron</code>
 </p>
 
 ---
 
 ## `$ whoami`
 
-我是 Leo，一名偏前端的全栈工程师，喜欢把产品想法做成可靠、精致且真正可用的 Web 与桌面端体验。
+我是 Leo。前端是我的主场，但一个功能如果需要我写 API、调构建流程，或者套一层桌面壳，我一般也会一路做下去。
 
-- 🎨 前端是主要优势，主力技术包括 **TypeScript、React、Vue 和 Next.js**
-- ⚙️ 使用 **Node.js 和 NestJS** 开发 API、后端服务与全栈功能
-- 🖥️ 使用 **Electron** 开发跨平台桌面应用
-- 📦 使用 **Docker、Vite 和 Git** 改善开发、构建与交付流程
-- 🌱 正在学习 **Go**，逐步拓展后端与系统方向的能力边界
-- 🤖 探索 AI 在创意产品与开发者工具中的实际应用
+- 平时写得最多的是 **TypeScript**，常用 **React、Vue 和 Next.js**。
+- 功能需要后端时，我会用 **Node.js 和 NestJS**。
+- 浏览器标签页不太够用的时候，就上 **Electron**。
+- **Docker、Vite 和 Git** 都是每天会碰的工具。
+- **Go** 还在慢慢学，先从一个个小程序写起。
+- 我很喜欢开发者工具，以及那些能少点几下鼠标的小自动化。
 
-## `$ cat stack.ts`
+## `$ stack --grouped`
 
-```ts
-const 技术栈 = {
-  前端: ["TypeScript", "JavaScript", "React", "Vue", "Next.js"],
-  后端: ["Node.js", "NestJS"],
-  桌面端: ["Electron"],
-  工程化: ["Docker", "Vite", "Git"],
-  学习中: ["Go"],
-} as const;
+```text
+前端      TypeScript · JavaScript · React · Vue · Next.js
+后端      Node.js · NestJS
+桌面端    Electron
+工具      Docker · Vite · Git
+学习中    Go
 ```
 
 <p align="center">
@@ -43,21 +41,15 @@ const 技术栈 = {
 
 | 项目 | 用途 | 技术 |
 | --- | --- | --- |
-| [**Outclaw**](https://github.com/leocarsons/outclaw) | 用于创建、安装、搜索和管理 Agent Skills 的 CLI 与注册表工作流。 | TypeScript · CLI |
-| [**vite-plugin-upload-sourcemaps**](https://github.com/leocarsons/vite-plugin-upload-sourcemaps) | 面向 APM Insight Web 的 Vite Sourcemap 上传工具。 | TypeScript · Vite |
+| [**Outclaw**](https://github.com/leocarsons/outclaw) | 我写的一个 CLI，让 Agent Skills 的创建、安装、搜索和管理简单一点。 | TypeScript · CLI |
+| [**vite-plugin-upload-sourcemaps**](https://github.com/leocarsons/vite-plugin-upload-sourcemaps) | 一个把 Sourcemap 上传到 APM Insight Web 的小型 Vite 插件。 | TypeScript · Vite |
 
-## `$ cat 工作方式.json`
+## `$ cat 随手记.txt`
 
-```json
-{
-  "产品意识": true,
-  "沟通方式": "清晰且适合异步协作",
-  "文档": "工作的一部分",
-  "交付": "可靠、渐进",
-  "偏好模式": "远程"
-}
-```
+我喜欢有细节的界面、能解决真实麻烦的小工具，以及不会让后来接手的人叹气的代码。
+
+最近在慢慢补 Go，也还在找各种理由写 Electron。
 
 <p align="center">
-  <samp>leo@github:~$ <b>想清楚，认真做，持续进步。</b> <span>▌</span></samp>
+  <samp>leo@github:~$ <b>继续写点东西。</b> <span>▌</span></samp>
 </p>
