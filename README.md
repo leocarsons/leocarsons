@@ -8,23 +8,16 @@
 </p>
 
 <p align="center">
-  <code>full-cycle engineer</code> · <code>frontend at heart</code> · <code>TypeScript</code>
+  <code>full-cycle engineer</code> · <code>frontend-leaning</code>
 </p>
 
 ---
 
 ## `$ whoami`
 
-I'm Leo. Frontend is my home turf, but I'm not very interested in stopping at “that's not my part.” If a feature needs an API, I'll write the backend. If it needs a desktop shell, I'll reach for Electron. If it needs to go live, I'll deal with the container, the build, and whatever only breaks after deployment.
+I'm Leo, a **full-cycle engineer** who leans toward frontend work.
 
-I sometimes call myself a **full-cycle engineer**: frontend, backend, and the operational bits in between. Getting the whole thing working matters more to me than staying inside a neat job-title box.
-
-- **Frontend:** TypeScript, JavaScript, React, Vue and Next.js
-- **Backend:** Node.js and NestJS
-- **Desktop:** Electron
-- **Ops & tooling:** Docker, builds, deployments, Vite and Git
-- **Currently learning:** Go, one small program at a time
-- **Always tempting:** developer tools and tiny automations that save a few clicks
+I build for the web and desktop, and I also work on backend services, deployment and operations. I like making things from scratch and polishing the details that make them nicer to use.
 
 ## `$ stack --grouped`
 
