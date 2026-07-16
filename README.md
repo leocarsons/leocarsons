@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:DB2777&height=190&section=header&text=Hi%2C%20I'm%20Leo%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Frontend-leaning%20full-stack%20engineer%20%C2%B7%20Web%20products%20%C2%B7%20Developer%20tools&descAlignY=58&animation=fadeIn" alt="Hi, I'm Leo — a frontend-leaning full-stack engineer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:DB2777&height=190&section=header&text=Hi%2C%20I'm%20Leo%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Frontend-leaning%20full-stack%20engineer%20%C2%B7%20Web%20%26%20desktop%20products&descAlignY=58&animation=fadeIn" alt="Hi, I'm Leo — a frontend-leaning full-stack engineer" />
 
   <p>
     <a href="./README.md"><img src="https://img.shields.io/badge/Language-English-2563EB?style=for-the-badge" alt="Read in English" /></a>
@@ -19,20 +19,23 @@ I'm Leo, a frontend-leaning full-stack engineer who enjoys turning product ideas
 
 - 🎨 Strongest on the frontend with **TypeScript, React, Vue and Next.js**
 - ⚙️ Building APIs and backend services with **Node.js and NestJS**
+- 🖥️ Creating cross-platform desktop applications with **Electron**
 - 📦 Using **Docker, Vite and Git** to keep delivery and developer workflows smooth
 - 🌱 Learning **Go** and expanding my backend and systems perspective
 - 🤖 Exploring practical AI workflows for creative products and developer tooling
+- 🌍 I enjoy remote collaboration built on clear communication, good documentation and reliable delivery
 
 ## Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nestjs,nodejs,docker,go,vite,git,github&perline=6&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Vue, NestJS, Node.js, Docker, Go, Vite, Git and GitHub" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nestjs,nodejs,electron,docker,go,vite,git,github&perline=7&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Vue, NestJS, Node.js, Electron, Docker, Go, Vite, Git and GitHub" />
 </p>
 
 | Area | Tools | How I use them |
 | --- | --- | --- |
 | **Frontend** | TypeScript, JavaScript, React, Vue, Next.js | Product interfaces, reusable components and maintainable frontend architecture |
 | **Backend** | Node.js, NestJS | APIs, application services and full-stack feature delivery |
+| **Desktop** | Electron | Cross-platform desktop applications powered by web technologies |
 | **Engineering** | Docker, Vite, Git | Local environments, builds, automation and team workflows |
 | **Exploring** | Go | Learning through small programs and backend experiments |
 
