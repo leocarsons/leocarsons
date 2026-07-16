@@ -8,21 +8,23 @@
 </p>
 
 <p align="center">
-  <code>偏前端的全栈工程师</code> · <code>TypeScript</code> · <code>Electron</code>
+  <code>全干工程师</code> · <code>前端是主场</code> · <code>TypeScript</code>
 </p>
 
 ---
 
 ## `$ whoami`
 
-我是 Leo。前端是我的主场，但一个功能如果需要我写 API、调构建流程，或者套一层桌面壳，我一般也会一路做下去。
+我是 Leo。前端是我的主场，但我不太习惯在“这个不归我管”的地方停下来。功能需要 API，我就写后端；浏览器装不下，就套一层 Electron；东西需要上线，我也会自己配环境、打镜像、看日志，再把那些“本地明明是好的”问题一个个揪出来。
 
-- 平时写得最多的是 **TypeScript**，常用 **React、Vue 和 Next.js**。
-- 功能需要后端时，我会用 **Node.js 和 NestJS**。
-- 浏览器标签页不太够用的时候，就上 **Electron**。
-- **Docker、Vite 和 Git** 都是每天会碰的工具。
-- **Go** 还在慢慢学，先从一个个小程序写起。
-- 我很喜欢开发者工具，以及那些能少点几下鼠标的小自动化。
+所以我更愿意叫自己 **「全干工程师」**：前端、后端、部署运维，哪一段需要人就做哪一段。比起把自己塞进一个很窄的岗位标签，我更在意能不能把一个东西从想法一路做到真正跑起来。
+
+- **前端：** TypeScript、JavaScript、React、Vue、Next.js
+- **后端：** Node.js、NestJS
+- **桌面端：** Electron
+- **运维与工程化：** Docker、环境配置、构建发布、问题排查
+- **正在学：** Go，先从一个个小程序写起
+- **总忍不住想做：** 开发者工具，以及那些能少点几下鼠标的小自动化
 
 ## `$ stack --grouped`
 
@@ -30,7 +32,8 @@
 前端      TypeScript · JavaScript · React · Vue · Next.js
 后端      Node.js · NestJS
 桌面端    Electron
-工具      Docker · Vite · Git
+运维      Docker · 环境配置 · 构建发布 · 问题排查
+工具      Vite · Git
 学习中    Go
 ```
 

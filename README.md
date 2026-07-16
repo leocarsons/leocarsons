@@ -8,21 +8,23 @@
 </p>
 
 <p align="center">
-  <code>frontend-leaning full-stack</code> · <code>TypeScript</code> · <code>Electron</code>
+  <code>full-cycle engineer</code> · <code>frontend at heart</code> · <code>TypeScript</code>
 </p>
 
 ---
 
 ## `$ whoami`
 
-I'm Leo. Frontend is where I'm most at home, but I usually follow a feature wherever it goes — API, build pipeline, or desktop shell.
+I'm Leo. Frontend is my home turf, but I'm not very interested in stopping at “that's not my part.” If a feature needs an API, I'll write the backend. If it needs a desktop shell, I'll reach for Electron. If it needs to go live, I'll deal with the container, the build, and whatever only breaks after deployment.
 
-- Most days I'm writing **TypeScript** with **React, Vue or Next.js**.
-- When the feature needs a backend, I reach for **Node.js and NestJS**.
-- I use **Electron** when a browser tab isn't quite enough.
-- **Docker, Vite and Git** are part of the everyday toolbox.
-- I'm learning **Go**, one small program at a time.
-- I have a soft spot for developer tools and tiny automations that save a few clicks.
+I sometimes call myself a **full-cycle engineer**: frontend, backend, and the operational bits in between. Getting the whole thing working matters more to me than staying inside a neat job-title box.
+
+- **Frontend:** TypeScript, JavaScript, React, Vue and Next.js
+- **Backend:** Node.js and NestJS
+- **Desktop:** Electron
+- **Ops & tooling:** Docker, builds, deployments, Vite and Git
+- **Currently learning:** Go, one small program at a time
+- **Always tempting:** developer tools and tiny automations that save a few clicks
 
 ## `$ stack --grouped`
 
@@ -30,7 +32,8 @@ I'm Leo. Frontend is where I'm most at home, but I usually follow a feature wher
 frontend   TypeScript · JavaScript · React · Vue · Next.js
 backend    Node.js · NestJS
 desktop    Electron
-tooling    Docker · Vite · Git
+ops        Docker · builds · deployments · troubleshooting
+tooling    Vite · Git
 learning   Go
 ```
 
