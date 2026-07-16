@@ -3,7 +3,8 @@
 </div>
 
 <p align="center">
-  <samp><b>English</b> · <a href="./README.zh-CN.md">简体中文</a></samp>
+  <a href="./README.md"><img src="./assets/lang-en-active.svg" height="34" alt="English — selected" /></a>
+  <a href="./README.zh-CN.md"><img src="./assets/lang-zh-inactive.svg" height="34" alt="切换到简体中文" /></a>
 </p>
 
 <p align="center">
