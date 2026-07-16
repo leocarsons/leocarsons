@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="330" viewBox="0 0 960 330" role="img" aria-labelledby="title desc">
+  <title id="title">Leo 的开发者终端</title>
+  <desc id="desc">终端风格的个人介绍：偏前端的全栈工程师，专注 Web、桌面端与远程协作。</desc>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "PingFang SC", "Microsoft YaHei", monospace; }
+    .muted { fill: #8b949e; }
+    .prompt { fill: #3fb950; font-weight: 700; }
+    .command { fill: #79c0ff; }
+    .output { fill: #e6edf3; }
+    .accent { fill: #d2a8ff; }
+    .cursor { animation: blink 1s steps(2, start) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect x="1" y="1" width="958" height="328" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <path d="M17 1h926a16 16 0 0 1 16 16v42H1V17A16 16 0 0 1 17 1Z" fill="#161b22"/>
+  <circle cx="29" cy="30" r="7" fill="#ff5f56"/>
+  <circle cx="53" cy="30" r="7" fill="#ffbd2e"/>
+  <circle cx="77" cy="30" r="7" fill="#27c93f"/>
+  <text x="480" y="37" text-anchor="middle" font-size="15" class="muted">leo@github — zsh</text>
+
+  <text x="34" y="96" font-size="18" class="prompt">leo@github:~$</text>
+  <text x="196" y="96" font-size="18" class="command">whoami</text>
+  <text x="34" y="128" font-size="20" class="output">偏前端的全栈工程师</text>
+
+  <text x="34" y="174" font-size="18" class="prompt">leo@github:~$</text>
+  <text x="196" y="174" font-size="18" class="command">cat focus.txt</text>
+  <text x="34" y="206" font-size="18" class="accent">Web 产品 · Electron · 开发者工具 · 实用 AI</text>
+
+  <text x="34" y="252" font-size="18" class="prompt">leo@github:~$</text>
+  <text x="196" y="252" font-size="18" class="command">echo $WORK_MODE</text>
+  <text x="34" y="284" font-size="18" class="output">偏好远程 · 异步沟通 · 稳定交付</text>
+
+  <rect x="34" y="303" width="10" height="18" rx="1" fill="#3fb950" class="cursor"/>
+</svg>
